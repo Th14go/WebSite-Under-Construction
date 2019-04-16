@@ -8,6 +8,7 @@
 
 /*! normalize.css v2.1.3 | MIT License | git.io/normalize */
 
+
 article,
 aside,
 details,
@@ -65,6 +66,7 @@ a:hover {
 h1 {
   margin: 0.67em 0;
   font-size: 2em;
+  
 }
 
 abbr[title] {
